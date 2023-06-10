@@ -1,2 +1,2 @@
 # AI
-AI robot based on chat gpt4
+The first steps to making your own AI robot
